@@ -4,7 +4,8 @@
 #### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&width=500&lines=Backend+Developer;Linux+Enthusiast;DevOps+and+Infrastructure;Software+Engineering+Student)](https://git.io/typing-svg)
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=talesaraujo777&label=Visualizações&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=talesaraujo777&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações">
+  <img src="https://img.shields.io/github/repo-size/talesaraujo777/talesaraujo777?style=flat&label=README" alt="README">
 </p>
 
 #
