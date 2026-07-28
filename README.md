@@ -1,12 +1,11 @@
 ## Olá, eu sou Tales! 👋
 
 **`Software Engineering Student | Backend Developer | Linux & Infrastructure`**
+#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&width=500&lines=Backend+Developer;Linux+Enthusiast;DevOps+and+Infrastructure;Software+Engineering+Student)](https://git.io/typing-svg)
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=talesaraujo777&label=Visualizações&color=0e75b6&style=flat" />
 </p>
-
-#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&width=500&lines=Backend+Developer;Linux+Enthusiast;DevOps+and+Infrastructure;Software+Engineering+Student)](https://git.io/typing-svg)
 
 #
 
