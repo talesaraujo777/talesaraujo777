@@ -73,10 +73,4 @@ Sou estudante de Engenharia de Software apaixonado por desenvolvimento backend, 
 
 #
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=talesaraujo777&theme=github-dark-blue"/>
-</p>
-
-#
-
 > "Transformando problemas em soluções através da tecnologia."
