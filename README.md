@@ -16,7 +16,7 @@ Sou estudante de Engenharia de Software apaixonado por desenvolvimento backend, 
 
 - 🎓 Engenharia de Software ████████░ `87,5%` `7/8`
 - 💼 Atuação em validação e homologação de servidores
-- 🐧 Entusiasta de Linux, automação e infraestrutura
+- 🐧 Entusiasta de Linux, automação, infraestrutura e segurança
 - 💻 Foco em Backend, DevOps e Segurança da Informação
 - 📍 Manaus • AM • Brasil
 
