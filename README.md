@@ -5,7 +5,9 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=talesaraujo777&label=Visualizações&color=0e75b6&style=flat" alt="Visualizações">
-  <img src="https://img.shields.io/github/repo-size/talesaraujo777/talesaraujo777?style=flat&label=README" alt="README">
+  <a href="https://github.com/talesaraujo777?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositórios-20-blue?style=flat&logo=github" alt="Repositórios">
+  </a>
 </p>
 
 #
