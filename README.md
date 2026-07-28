@@ -8,7 +8,7 @@
 
 #
 
-Sou estudante de Engenharia de Software apaixonado por desenvolvimento backend, Linux, infraestrutura de TI e automação. Gosto de criar soluções eficientes, aprender novas tecnologias e transformar problemas em software.
+Sou estudante de Engenharia de Software focado em desenvolvimento backend, Linux, infraestrutura de TI e automação. Gosto de criar soluções eficientes, aprender novas tecnologias e transformar problemas em software.
 
 #
 
