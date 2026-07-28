@@ -6,6 +6,8 @@
     <img src="https://komarev.com/ghpvc/?username=talesaraujo777&label=Visualizações&color=0e75b6&style=flat" />
 </p>
 
+#### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&width=500&lines=Backend+Developer;Linux+Enthusiast;DevOps+and+Infrastructure;Software+Engineering+Student)](https://git.io/typing-svg)
+
 #
 
 Sou estudante de Engenharia de Software focado em desenvolvimento backend, Linux, infraestrutura de TI e automação. Gosto de criar soluções eficientes, aprender novas tecnologias e transformar problemas em software.
