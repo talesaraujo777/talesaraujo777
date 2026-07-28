@@ -26,41 +26,41 @@ Sou estudante de Engenharia de Software apaixonado por desenvolvimento backend, 
 
 #### 💻 Front-end
 
-<p>
+<p align="left">
     <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/css3/css3-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/javascript/javascript-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/typescript/typescript-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/react/react-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/bootstrap/bootstrap-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/jquery/jquery-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 </p>
 
 #### ⚙️ Back-end
 
-<p>
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/python/python-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/flask/flask-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/django/django-plain.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/csharp/csharp-original.svg" />
+<p align="left">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </p>
 
 #### 🗄️ Banco de Dados
 
-<p>
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/postgresql/postgresql-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/mysql/mysql-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/sqlite/sqlite-original.svg" />
+<p align="left">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
 </p>
 
 #### 🐧 Sistemas e Ferramentas
 
-<p>
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/linux/linux-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/bash/bash-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/powershell/powershell-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/docker/docker-original.svg" />
-    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/git/git-original.svg" />
+<p align="left">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
 #
