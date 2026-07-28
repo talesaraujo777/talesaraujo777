@@ -25,7 +25,7 @@ Sou estudante de Engenharia de Software apaixonado por desenvolvimento backend, 
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,jquery,python,flask,django,cs,postgres,mysql,sqlite,linux,bash,powershell,docker,git" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,bootstrap,jquery,python,flask,django,cs,postgres,mysql,sqlite,windows,linux,bash,powershell,docker,git" />
 </p>
 
 #
