@@ -27,40 +27,40 @@ Sou estudante de Engenharia de Software apaixonado por desenvolvimento backend, 
 #### 💻 Front-end
 
 <p>
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/css3/css3-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/javascript/javascript-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/typescript/typescript-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/react/react-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/bootstrap/bootstrap-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/jquery/jquery-original.svg" />
 </p>
 
 #### ⚙️ Back-end
 
 <p>
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/python/python-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/flask/flask-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/django/django-plain.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/csharp/csharp-original.svg" />
 </p>
 
 #### 🗄️ Banco de Dados
 
 <p>
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/postgresql/postgresql-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/mysql/mysql-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/sqlite/sqlite-original.svg" />
 </p>
 
 #### 🐧 Sistemas e Ferramentas
 
 <p>
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/linux/linux-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/bash/bash-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/powershell/powershell-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/docker/docker-original.svg" />
+    <img width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/git/git-original.svg" />
 </p>
 
 #
@@ -73,3 +73,4 @@ Sou estudante de Engenharia de Software apaixonado por desenvolvimento backend, 
 #
 
 > "Transformando problemas em soluções através da tecnologia."
+>
