@@ -19,7 +19,7 @@ Focado em desenvolvimento backend, infraestrutura de TI e automação de testes 
 
     📚️ Cursando o 7º período de Engenharia de Software ████████░ 87,5%
     🎓 Conclusão prevista para Dezembro de 2027
-    💼 Atuação em validação e testes de servidores
+    💼 Atuação em validação e testes de servidores 
     🐧 Entusiasta de Linux, automação, infraestrutura de TI e desenvolvimento web.
     📍 Manaus-AM • Brasil
 
