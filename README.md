@@ -37,7 +37,6 @@ Focado em desenvolvimento backend, infraestrutura de TI e automação de testes 
 
     • Validação de servidores
     • Automação de Testes
-    • Sistemas de Teste para Manufatura
     • Diagnóstico de Hardware
     • Análise de Logs
     • PXE Boot
