@@ -17,7 +17,7 @@
 
 Focado em desenvolvimento backend, infraestrutura de TI e automação de testes utilizando UEFI Shell, PXE Boot, WinPE e Linux Live. Gosto de criar soluções eficientes, aprender e me divertir com novas tecnologias e transformar problemas em software.
 
-    📚️ Cursando o 7º período de Engenharia de Software ████████░ 87,5%
+    📚️ Cursando o 7º período de Engenharia de Software 
     🎓 Conclusão prevista para Dezembro de 2027
     💼 Atuação em validação e testes de servidores 
     🐧 Entusiasta de Linux, automação, infraestrutura de TI e desenvolvimento web.
