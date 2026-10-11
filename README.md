@@ -4,8 +4,6 @@
 
 **`Software Engineer Student | Backend • Infrastructure • Automation`**
 
-#
-
 ### 👨‍💻 Sobre mim
 
 Focado em desenvolvimento backend, infraestrutura de TI e automação de testes utilizando UEFI Shell, PXE Boot, WinPE e Linux Live. Gosto de criar soluções eficientes, aprender e me divertir com novas tecnologias e transformar problemas em software.
